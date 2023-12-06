@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Dec 06 23:31:51 IST 2023","Wed Dec 06 23:31:55 IST 2023","3852","chromium","example.spec.ts","","","","has title",""
